@@ -11,3 +11,6 @@ entre o Controller e o Repository existe o Classes(Model) o que seria o mesmo do
 Adicionamos 2 classes, a tipo e a endereço. usamos o lombok para diminuir os códigos.
 
 No dia 27/06, trabalhamos com o Studio Code, e fizemos 3 atividades.
+
+
+No dia 04/07, fizemos dois jogos no scratch, um de adivinhar números e outro de "derrotar" inimigos.
