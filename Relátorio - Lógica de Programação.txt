@@ -1,0 +1,7 @@
+18/04 Criamos um projeto java ,fizemos o menu do jogo de adivinhação e colocamos no github.
+
+16/05 Criado mais uma versão do jogo de adivinhação, pois alguns alunos não possuiam o projeto. Feito menu e estrutura do jogo utilizando estrutura decisão (If..else).
+No jogo o usuário informava o número e o jogo informava se ele acertou o número ou não.
+
+23/05 Incrementado lógica do jogo, colocando estrutura de laço de repetição, onde o jogador poderia jogar mais de uma vez. Para isso foi utilizado o laço For.
+Baixado o projeto para a Situação de Aprendizagem usando o Spring Initializr

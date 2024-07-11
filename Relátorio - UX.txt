@@ -1,0 +1,4 @@
+06/06 Aprendido conceitos de UX, e investigado sites de API gratuitos para ver a documentação e tentar acessar pelo Postman.
+Baixado projeto modelo para usar a biblioteca OpenAPI e Swagger para documentação automática.
+
+13/06 Aprendemos mais sobre UX, códigos de erros, usamos Swagger UI

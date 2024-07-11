@@ -1,0 +1,9 @@
+25/04 Aprendemos sobre os conceitos o banco de dados. Banco de dados é um lugar aonde se pode guardar informações de qualquer tipo, serve para pesquisar informações caso necessário. Fizemos um modelo  entidade/relacionamento e salvamos no Github.
+
+02/05 Continuação do projeto de banco de dados, criamos tabelas nno banco de dados utiizando a linguagem de programação SQL.
+Utilização dos comandos de insert para inserção de informações nas tabelas.
+
+09/05 Utilizado Engenharia direta do MySQL para gerar  o script de criação do banco.
+Inserido algumas informações utilizando comando Insert.
+Utilizado o comando select para ver as informações.
+Salvado as informações no Github.
