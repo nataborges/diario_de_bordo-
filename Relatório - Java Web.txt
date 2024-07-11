@@ -14,6 +14,9 @@ No dia 27/06, trabalhamos com o Studio Code, e fizemos 3 atividades.
 
 
 No dia 04/07, fizemos dois jogos no scratch, um de adivinhar números e outro de "derrotar" inimigos.
+<<<<<<< HEAD
 
 No dia 11/07, continuamos terminando os dois projetos no scratch.
 
+=======
+>>>>>>> 633d9987b16ed12cf94cef0f3420b4d37ba23d9c
