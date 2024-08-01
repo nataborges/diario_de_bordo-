@@ -1,0 +1,5 @@
+Dia 04/04 foi o primeiro dia de aula, foi feito a integração com o professor sandro no kahoot e fizemos um tour pelo senai, nivelamento de informática básica, aula de interação, apresentação de cada aluno
+
+11/04 Fiz a conta no github, começamos a uasr o git, aprendemos os comandos como git init, que cria um repositório, git clone clona o diretório remoto na pasta local, git add seleciona um arquivo ou mais, git status verifica o status do repositório local, git commit faz commit dos arquivos que estão na staging,git push que envia o commit ate o repositório remoto, etc.
+
+

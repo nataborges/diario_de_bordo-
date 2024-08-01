@@ -1,0 +1,21 @@
+No dia 20/06 na parte da manhã, criamos um repositório chamado "Eventos_api".
+
+em seguida adicionamos dependecias, e adicionamos uma extra chamada "OpenApi" pelo intellij.
+
+Aprendemos mais sobre as dependencias e sempre iremos iniciar no "evento application".
+
+No Java Web o front end manda informação para o Controller o mesmo manda para o repository e no final para o JPA, apósntudo isto
+o JPA manda a informção para o Database(banco de dados) e o Database guarada os dados e retorna os dados, confirmando a ação.
+entre o Controller e o Repository existe o Classes(Model) o que seria o mesmo do Database, mesmo sendo dentro do backend.
+
+Adicionamos 2 classes, a tipo e a endereço. usamos o lombok para diminuir os códigos.
+
+No dia 27/06, trabalhamos com o Studio Code, e fizemos 3 atividades.
+
+
+No dia 04/07, fizemos dois jogos no scratch, um de adivinhar números e outro de "derrotar" inimigos.
+<<<<<<< HEAD
+
+No dia 11/07, continuamos terminando os dois projetos no scratch.
+
+01/08/24,Continuamos o projeto e colocamos usuario e senha em uma classe fechada.
