@@ -14,13 +14,13 @@ No dia 27/06, trabalhamos com o Studio Code, e fizemos 3 atividades.
 
 
 No dia 04/07, fizemos dois jogos no scratch, um de adivinhar números e outro de "derrotar" inimigos.
-<<<<<<< HEAD
+
 
 No dia 11/07, continuamos terminando os dois projetos no scratch.
 
-<<<<<<< HEAD
+
 01/08/24,Continuamos o projeto e colocamos usuario e senha em uma classe fechada.
-=======
-=======
->>>>>>> 633d9987b16ed12cf94cef0f3420b4d37ba23d9c
->>>>>>> e1a6256f5a8ae708d922c73bb24a6b80f5bce82d
+
+15/08/2024, Continuamos a fazer o projeto API, criamos classes, Controllers e repositories para as seguintes classes Cliente, Usuário, Mídia, Ingresso e Fornecedor.
+
+22/08, Continuamos o projeto e testamos no PostMan.
